@@ -11,7 +11,7 @@ export default function Staff(props) {
   const { nodes, materials } = useGLTF("/models/staff-transformed.glb");
   const modelRef = useRef();
   useFrame(() => {
-    modelRef.current.rotation.y += 0.03;
+    modelRef.current.rotation.y += 0.007;
   });
 
   return (

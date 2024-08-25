@@ -120,4 +120,17 @@ export const BtnList = [
   },
 ];
 
+export const githubStats =
+  "https://github-readme-stats.vercel.app/api?username=jay01cross&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false";
 
+export const githubLanguagesRank =
+  "https://github-readme-stats.vercel.app/api/top-langs??username=jay01cross&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false";
+
+export const skillIcons =
+  "https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,cloudflare,css,d3,docker,figma,firebase,gatsby,git,github,graphql,html,ipfs,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn";
+
+export const githubStreak =
+  "https://github-readme-streak-stats.herokuapp.com?user=jay01cross&theme=dark&hide_border=true&type=png&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B";
+
+export const githubReadmeStats =
+  "https://github-readme-stats.vercel.app/api/pin/?username=jay01cross&repo=jay-fiverr&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2";
